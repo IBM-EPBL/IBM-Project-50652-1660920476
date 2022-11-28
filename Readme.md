@@ -36,6 +36,19 @@ To develop an end-to-end web application capable of displaying the current job o
 Technical Architecture :
 ![SAB](https://user-images.githubusercontent.com/113616060/204326162-e320b199-a100-4c3d-8286-ef93ddb5ee37.png)
 
+OUTPUT :
+![image](https://user-images.githubusercontent.com/113616060/204336865-1a4f36a9-c7eb-4c2b-86f1-91da8ba82fed.png)
+
+![image](https://user-images.githubusercontent.com/113616060/204336959-2a8df7b8-8321-49ff-806f-bf1bd7d4832d.png)
+
+![image](https://user-images.githubusercontent.com/113616060/204336997-bcc6235f-3ac5-40f1-9bb1-bd2297e470ec.png)
+
+![image](https://user-images.githubusercontent.com/113616060/204337032-85046d85-1898-4587-badd-8232083af68e.png)
+
+![image](https://user-images.githubusercontent.com/113616060/204337112-0828a346-b874-406b-9534-1308d4730215.png)
+
+
+
 
 THANK YOU
 
